@@ -7,7 +7,7 @@
 ├── variables.tf
 ├── userdata.sh
 ├── userdata1.sh
-├── README.md
+└── README.md
 
 ---
 
