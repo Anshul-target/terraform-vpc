@@ -43,7 +43,7 @@
 2. Validate configuration: `terraform validate`
 3. Preview changes: `terraform plan`
 4. Deploy infrastructure: `terraform apply`
-5. Destroy infrastructure: `terraform destroy
+5. Destroy infrastructure: `terraform destroy`
 
 ---
 
