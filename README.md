@@ -1,5 +1,6 @@
 # Project Structure
 
+```
 .
 ├── .gitignore
 ├── main.tf
@@ -8,6 +9,7 @@
 ├── userdata.sh
 ├── userdata1.sh
 └── README.md
+```
 
 ---
 
@@ -37,20 +39,11 @@
 
 # Usage
 
-1. Initialize Terraform:
-   terraform init
-
-2. Validate configuration:
-   terraform validate
-
-3. Preview changes:
-   terraform plan
-
-4. Deploy infrastructure:
-   terraform apply
-
-5. Destroy infrastructure:
-   terraform destroy
+1. Initialize Terraform: `terraform init`
+2. Validate configuration: `terraform validate`
+3. Preview changes: `terraform plan`
+4. Deploy infrastructure: `terraform apply`
+5. Destroy infrastructure: `terraform destroy
 
 ---
 
